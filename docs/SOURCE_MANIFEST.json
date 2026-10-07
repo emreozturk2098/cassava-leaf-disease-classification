@@ -1,0 +1,179 @@
+{
+  "portfolio": "Two course studies grouped by the Cassava classification task",
+  "contributors": [
+    "Emre Öztürk",
+    "Ali Baki Türköz"
+  ],
+  "contribution": "Both contributors worked jointly and equally at every stage in each study; confirmed by Emre",
+  "results_rerun": false,
+  "files": [
+    {
+      "path": "assets/cs523/fig_class_distribution.png",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification\\fig\\fig_class_distribution.png",
+      "sha256": "3298e6fbec82c4658f8de8503fb561edaa16b7f2abb30c13919aedc3aa7ecb96",
+      "context": "CS523 saved report figure",
+      "unchanged": true
+    },
+    {
+      "path": "assets/cs523/fig_aug_comparison.png",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification\\fig\\fig_aug_comparison.png",
+      "sha256": "52e4b3839459554dadd0f0e4988af9e39cb9d8fac1fb231b1361ec1bb1cbef32",
+      "context": "CS523 saved report figure",
+      "unchanged": true
+    },
+    {
+      "path": "assets/cs523/fig_cm_aug_none.png",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification\\fig\\fig_cm_aug_none.png",
+      "sha256": "55657b572be37828799e636ef830b1d1d703def05a6fee671869ee15cf0b6fe5",
+      "context": "CS523 saved report figure",
+      "unchanged": true
+    },
+    {
+      "path": "assets/cs523/fig_cm_aug_heavy.png",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification\\fig\\fig_cm_aug_heavy.png",
+      "sha256": "63750c610e64a0583d55d8a5ce59f30412f42f19af54b5ebca6d36feece6c284",
+      "context": "CS523 saved report figure",
+      "unchanged": true
+    },
+    {
+      "path": "assets/cs523/fig_curves_aug_heavy_combo.png",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification\\fig\\fig_curves_aug_heavy_combo.png",
+      "sha256": "f64f1b0819b2ecb84e4ef691a3f14b0758637f58d6ebcb583896d60141b07523",
+      "context": "CS523 saved report figure",
+      "unchanged": true
+    },
+    {
+      "path": "assets/cs523/fig_curves_best_dl.png",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification\\fig\\fig_curves_best_dl.png",
+      "sha256": "03a22b501cf07416e66d3e5317b3b6909382ffe6017d20819357eddcf58592a2",
+      "context": "CS523 saved report figure",
+      "unchanged": true
+    },
+    {
+      "path": "assets/cs523/fig_cm_best_dl.png",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification\\fig\\fig_cm_best_dl.png",
+      "sha256": "cd57310ccd770231f2f34667384f17043a1e67041fec05211e7b916e0c62a80c",
+      "context": "CS523 saved report figure",
+      "unchanged": true
+    },
+    {
+      "path": "assets/cs523/fig_perclass_best_dl.png",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification\\fig\\fig_perclass_best_dl.png",
+      "sha256": "f02e5a4ca13944dc46f45a5b76353642093fd810a98e8e55924913af4e244c0e",
+      "context": "CS523 saved report figure",
+      "unchanged": true
+    },
+    {
+      "path": "assets/cs523/fig_perclass_delta.png",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification\\fig\\fig_perclass_delta.png",
+      "sha256": "dfcc9d6d0132d9aeb325c2307de12d7c2c150834f8fdaddf996d065f4f806260",
+      "context": "CS523 saved report figure",
+      "unchanged": true
+    },
+    {
+      "path": "assets/ee470/model_summary.png",
+      "source": "EE470/EE470_Project/EE470_SUNUM_PROJE.pptx",
+      "embedded_media": "ppt/media/image29.png",
+      "slide": 15,
+      "sha256": "e156b938dbd5bedae483156bebc85c7c2a7d856844444725b5fd2b7d79f9281f",
+      "unchanged": true
+    },
+    {
+      "path": "assets/ee470/early_trial_curves.png",
+      "source": "EE470/EE470_Project/EE470_SUNUM_PROJE.pptx",
+      "embedded_media": "ppt/media/image33.png",
+      "slide": 17,
+      "sha256": "c6ec5f07dae8097246a58b4a99a7307b60284f346221d5c3d5622a2df24571fe",
+      "unchanged": true
+    },
+    {
+      "path": "assets/ee470/adjusted_trial_curves.png",
+      "source": "EE470/EE470_Project/EE470_SUNUM_PROJE.pptx",
+      "embedded_media": "ppt/media/image32.png",
+      "slide": 18,
+      "sha256": "3147418de97b9f1b2d9c82bad52289e1822b7a8d1eb4f8fa7d8916bb70e497d0",
+      "unchanged": true
+    },
+    {
+      "path": "assets/samples/class_0.jpg",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification\\fig\\examples\\label0_Cassava_Bacterial_Blight_CBB_2292154193.jpg",
+      "sha256": "af4381dfd4929269162f046b64ea78c506ea4ef640767c07253ae7460f0566d4",
+      "context": "Representative CS523 source-labelled training image",
+      "unchanged": true
+    },
+    {
+      "path": "assets/samples/class_1.jpg",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification\\fig\\examples\\label1_Cassava_Brown_Streak_Disease_CBSD_1053506407.jpg",
+      "sha256": "f47231198174428a568f54dc33b31bca3bfea567d3b8eb63a620485d6955a7c7",
+      "context": "Representative CS523 source-labelled training image",
+      "unchanged": true
+    },
+    {
+      "path": "assets/samples/class_2.jpg",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification\\fig\\examples\\label2_Cassava_Green_Mite_CGM_532304081.jpg",
+      "sha256": "e9ca087fb87a32303412679be615822d6e5805331b19b057b4cd7bd850735961",
+      "context": "Representative CS523 source-labelled training image",
+      "unchanged": true
+    },
+    {
+      "path": "assets/samples/class_3.jpg",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification\\fig\\examples\\label3_Cassava_Mosaic_Disease_CMD_575135832.jpg",
+      "sha256": "81bfe517ba573bea632eed39ab0733089fb13dd11c4506df9ac6b4f6dabe25ec",
+      "context": "Representative CS523 source-labelled training image",
+      "unchanged": true
+    },
+    {
+      "path": "assets/samples/class_4.jpg",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification\\fig\\examples\\label4_Healthy_1372417670.jpg",
+      "sha256": "4ee83fb1a71fa9fa6f598bcd77d44b568800d876e98e04e5069a06dc37f0100a",
+      "context": "Representative CS523 source-labelled training image",
+      "unchanged": true
+    },
+    {
+      "path": "results/tab_ml.csv",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification\\tables\\tab_ml.tex",
+      "source_sha256": "0c3b4e74add3929baf3ebd369dce6d7191714c32942e02d297bbd592d72886fd",
+      "transformation": "LaTeX rows to CSV; saved values, not new model evaluation"
+    },
+    {
+      "path": "results/tab_cnn.csv",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification\\tables\\tab_cnn.tex",
+      "source_sha256": "15f23c739ac0a7c5c3878cea3481a19da60fe96ff9088552c2173a524df29808",
+      "transformation": "LaTeX rows to CSV; saved values, not new model evaluation"
+    },
+    {
+      "path": "results/tab_vit.csv",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification\\tables\\tab_vit.tex",
+      "source_sha256": "2b46c0205a4da270bbc6dbd9bd1f73b15478567243296e22654735d1858a3969",
+      "transformation": "LaTeX rows to CSV; saved values, not new model evaluation"
+    },
+    {
+      "path": "results/tab_aug.csv",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification\\tables\\tab_aug.tex",
+      "source_sha256": "4761ed2f3fdbb7b05edc4c51c5cafdcff574f6e60bd1d5113f8b92cb7242cf35",
+      "transformation": "LaTeX rows to CSV; saved values, not new model evaluation"
+    },
+    {
+      "path": "examples/ee470_architecture_excerpt.py",
+      "source": "repos\\cassava-leaf-disease-cnn\\examples\\original_architecture_excerpt.py",
+      "sha256": "1dbd606e40a5c57fd8b57f6231d60df34a04f52d9de5090ebe727fc38b19fe22",
+      "context": "Selected original architecture definitions; full training removed",
+      "unchanged": true
+    },
+    {
+      "source_document": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification\\cs523_paper_FINAL.tex",
+      "sha256": "fb00ee40daf4ffc6ad454fd50068ece29993ba66a7e06820c471948aa9ab287c",
+      "distributed": false
+    },
+    {
+      "source_document": "EE470\\EE470_Project\\EE470_project_report_template_3.docx",
+      "sha256": "1f3bbdff4fed51ad3cd3e826f4a2b3c6673da8ee787b707a44549de00477575e",
+      "distributed": false
+    },
+    {
+      "source_document": "EE470\\EE470_Project\\EE470_SUNUM_PROJE.pptx",
+      "sha256": "9bf3cdee7e8d70d9bead9b00d4826b16dd26f8b030a4af4e5ee489950062d181",
+      "distributed": false
+    }
+  ]
+}
