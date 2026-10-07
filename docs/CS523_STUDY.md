@@ -16,3 +16,6 @@ After selecting a ViT configuration, the study compares 15 augmentation policies
 All reported comparisons use three-fold stratified cross-validation. There is no separate held-out test in this study. Hyperparameters, best checkpoints and augmentation selection use validation outcomes, so the selected scores are development comparisons. The CSVs/figures retain saved evidence; they do not prove unseen-field deployment performance. Input resolution differs between architectures; an apparent ViT advantage cannot be attributed solely to architecture. Results are single-seed and not a multi-seed stability assessment.
 
 This is an academic computer-vision study. It is not presented as a published journal paper or deployed field diagnostic tool. Raw image data and the full training code are not uploaded. Five illustrative source-labelled images are shown in [image examples](IMAGE_EXAMPLES.md).
+
+## Strength of the augmentation evidence
+The observed +0.0109 macro-F1 difference and per-class changes are descriptive archived comparisons. No paired significance test or confidence interval for the difference is provided. Three folds and selection among 15 policies on the same folds do not establish a reliably generalizable improvement. Marginal fold standard deviations alone cannot determine the statistical significance of a paired difference.
