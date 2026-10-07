@@ -1,5 +1,13 @@
 # Cassava Leaf Disease Classification
 
+## Academic setting and subject
+| Study | Academic level and institution | Subject |
+|---|---|---|
+| EE470 | Undergraduate coursework, Yeditepe University | Cassava leaf disease image classification with a CNN trained from scratch |
+| CS523 | Graduate coursework during master’s studies, Özyeğin University | Classical ML, pretrained CNN/ViT comparisons and augmentation analysis for Cassava images |
+
+Emre Öztürk and Ali Baki Türköz contributed jointly and equally at every stage of both studies. Each study retains its own data and evaluation context.
+
 Two academic computer-vision studies by **Emre Öztürk and Ali Baki Türköz**, who worked jointly and equally at every stage. This private portfolio brings together an undergraduate CNN study (EE470, Yeditepe University) and a later comparative-model study (CS523, Özyeğin University).
 
 ## What is the problem?
@@ -26,7 +34,7 @@ Five examples, one per CS523 source label, are included in the [image gallery](d
 *The majority CMD class makes up 61.49% of the CS523 dataset. Accuracy alone can hide poor minority-class performance.*
 
 ![CS523 augmentation comparison](assets/cs523/fig_aug_comparison.png)
-*Fifteen saved augmentation comparisons. The selected heavy_combo macro-F1 is 0.7921; the none baseline is 0.7812. The plot has a truncated axis, so use the numerical differences.*
+*Fifteen saved augmentation comparisons. The selected heavy_combo macro-F1 is 0.7921; the none baseline is 0.7812. The observed +0.0109 difference does not establish a reliable improvement: only three folds are available and 15 policies were compared on the same folds; no paired significance or independent confirmation is supplied. The plot has a truncated axis, so use the numerical differences.*
 
 ![Selected CS523 heavy-combination OOF confusion matrix](assets/cs523/fig_cm_aug_heavy.png)
 *Archived validation/OOF errors across the CS523 classes. This is not the EE470 instructor test.*
@@ -45,3 +53,6 @@ CS523: compare a grayscale-pixel/PCA baseline with pretrained models, use strati
 - [Data and provenance](docs/DATA_AND_PROVENANCE.md) and [source manifest](docs/SOURCE_MANIFEST.json).
 
 The work demonstrates image preprocessing, comparative modelling, transfer learning, dimensionality reduction, class-imbalance analysis, augmentation and evaluation. The repository remains **private**. It documents academic experiments and their limits; a deployed field diagnosis system is outside the delivered scope.
+
+## Portfolio preparation
+Documentation, selected examples and portfolio packaging were prepared with Codex and Claude assistance. This later preparation is distinct from the authors’ original project work. Contact: emre.ozturk.2098@gmail.com.
