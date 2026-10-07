@@ -1,0 +1,5 @@
+classifier,macro_f1,accuracy,macro_precision,macro_recall
+sgd_classifier,0.2012  ±  0.0064,0.3088  ±  0.0145,0.2133,0.2216
+logistic_regression,0.1898  ±  0.0037,0.2428  ±  0.0043,0.2167,0.2270
+extra_trees,0.1523  ±  0.0000,0.6149  ±  0.0001,0.1230,0.2000
+random_forest,0.1523  ±  0.0000,0.6149  ±  0.0000,0.1230,0.2000
