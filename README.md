@@ -54,3 +54,9 @@ CS523: compare a grayscale-pixel/PCA baseline with pretrained models, use strati
 
 ## Original materials recovered — 16 October 2026
 [Recovered materials and execution limitations](docs/RECOVERED_MATERIALS.md) · [File provenance manifest](docs/WORKSPACE_SYNC_MANIFEST.json). No reported experiment was rerun.
+
+## Original Word reports and dataset integrity
+[EE470 report/working-note archive](reports/ee470/word_archive/README.md) · [Dataset access and split audit](docs/DATASET_ACCESS_AND_SPLITS.md). The current train/test folders have zero exact-content overlap; smaller experiment folders are training subsets and must not be counted as independent tests.
+
+## Setup and archive validation
+[Environment, paths and execution scope](RUNNING.md). Run `python tools/check_archive.py` to verify the archive without training.

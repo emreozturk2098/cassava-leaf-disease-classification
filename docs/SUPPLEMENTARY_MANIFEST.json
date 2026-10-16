@@ -1,0 +1,78 @@
+{
+  "date": "2026-10-16",
+  "scope": "Supplemental archive payload checksums; original binary documents/data are unchanged. Derived text audit metadata uses canonical LF line endings.",
+  "files": [
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "file": "reports/ee470/word_archive/ee470 proje sunum konuşmasu.docx",
+      "source": "EE470/470_PROJE_SON_HAL_KODLAR!!!!!!/ee470 proje sunum konuşmasu.docx",
+      "bytes": 142638,
+      "sha256": "6c4b72aa2980189fb7553c371a080f948b4b2207f4fe124c991486081377de40"
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "file": "reports/ee470/word_archive/1.KOD EKSTRA.docx",
+      "source": "EE470/EE470_Project/1.KOD EKSTRA.docx",
+      "bytes": 13943,
+      "sha256": "bdbf09a90d4179e9e859c6d6e75594c2180b9b22acb1d3b42c9dbc14fc464726"
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "file": "reports/ee470/word_archive/EE470_project_report_template.docx",
+      "source": "EE470/EE470_Project/EE470_project_report_template.docx",
+      "bytes": 1809229,
+      "sha256": "cd38b475428c5ac480ff1ae78b53f154557ee4e6e41a0ffd91766100c0ab980b"
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "file": "reports/ee470/word_archive/EE470_project_report_template_1.docx",
+      "source": "EE470/EE470_Project/EE470_project_report_template_1.docx",
+      "bytes": 2314751,
+      "sha256": "a88bfbbae3f034105d403158078dda7f26bfa0f213a9fb315ff9ee5207fe36d3"
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "file": "reports/ee470/word_archive/EE470_project_report_template_2.docx",
+      "source": "EE470/EE470_Project/EE470_project_report_template_2.docx",
+      "bytes": 5523624,
+      "sha256": "d85bfa5eae5c8ef9db437b14c1816f719ca71a5ebc22eb3d40ff49567f9576c0"
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "file": "reports/ee470/word_archive/EE470_project_report_template_3.docx",
+      "source": "EE470/EE470_Project/EE470_project_report_template_3.docx",
+      "bytes": 2376840,
+      "sha256": "1f3bbdff4fed51ad3cd3e826f4a2b3c6673da8ee787b707a44549de00477575e"
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "file": "reports/ee470/word_archive/KAYNAKLAR.docx",
+      "source": "EE470/EE470_Project/KAYNAKLAR.docx",
+      "bytes": 7164,
+      "sha256": "3e1f03d82a2f0e15483cc972c4071aaff1fe1f23ef2dca926309f8c19b884946"
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "file": "reports/ee470/word_archive/Proje_sonuçlar_denemeler.docx",
+      "source": "EE470/EE470_Project/Proje_sonuçlar_denemeler.docx",
+      "bytes": 125914,
+      "sha256": "f97f506438110200bb2ff38bc3ce4a5c31c8965a703d06fe57b08b578434d39c"
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "file": "data/ee470_inventory.csv",
+      "source": "work/school_repo_audit_20261016/EE470_IMAGE_INVENTORY.csv",
+      "bytes": 1593380,
+      "sha256": "0884f97db67245b7702b021fdea1aaddf0c5d360cf4a7d94d2f877b1fa118bd0",
+      "text_line_endings": "LF canonical form"
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "file": "data/ee470_exact_duplicate_audit.json",
+      "source": "work/school_repo_audit_20261016/EE470_EXACT_DUPLICATE_AUDIT.json",
+      "bytes": 8338,
+      "sha256": "36eda6bdf5782da47daad94df3e243efcf5deb9d2e13bcd16994684c22046f59",
+      "text_line_endings": "LF canonical form"
+    }
+  ]
+}

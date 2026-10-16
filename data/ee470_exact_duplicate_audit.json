@@ -1,0 +1,333 @@
+{
+  "scope": "Current local supplied EE470 folders; not a reconstruction of historical training runs. Exact file-content hashes only, not perceptual similarity. Cat_Dog is unrelated and excluded.",
+  "folders": {
+    "train": {
+      "files": 10972,
+      "unique_sha256": 10965
+    },
+    "test": {
+      "files": 500,
+      "unique_sha256": 500
+    },
+    "valid_deneme": {
+      "files": 100,
+      "unique_sha256": 100
+    },
+    "test_200_veri": {
+      "files": 150,
+      "unique_sha256": 150
+    },
+    "Leaf_200_er_veri": {
+      "files": 1000,
+      "unique_sha256": 1000
+    }
+  },
+  "overlap": [
+    {
+      "a": "train",
+      "b": "test",
+      "common_sha256": 0,
+      "examples": []
+    },
+    {
+      "a": "train",
+      "b": "valid_deneme",
+      "common_sha256": 100,
+      "examples": [
+        {
+          "a": [
+            "train/Cassava___bacterial_blight/3913384912.jpg"
+          ],
+          "b": [
+            "valid_deneme/Cassava___bacterial_blight/3913384912.jpg"
+          ]
+        },
+        {
+          "a": [
+            "train/Cassava___brown_streak_disease/2885118531.jpg"
+          ],
+          "b": [
+            "valid_deneme/Cassava___brown_streak_disease/2885118531.jpg"
+          ]
+        },
+        {
+          "a": [
+            "train/Cassava___mosaic_disease/4250418714.jpg"
+          ],
+          "b": [
+            "valid_deneme/Cassava___mosaic_disease/4250418714.jpg"
+          ]
+        },
+        {
+          "a": [
+            "train/Cassava___healthy/4103867773.jpg"
+          ],
+          "b": [
+            "valid_deneme/Cassava___healthy/4103867773.jpg"
+          ]
+        },
+        {
+          "a": [
+            "train/Cassava___healthy/4091571824.jpg"
+          ],
+          "b": [
+            "valid_deneme/Cassava___healthy/4091571824.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "a": "train",
+      "b": "test_200_veri",
+      "common_sha256": 150,
+      "examples": [
+        {
+          "a": [
+            "train/Cassava___brown_streak_disease/2854111497.jpg"
+          ],
+          "b": [
+            "test_200_veri/Cassava___brown_streak_disease/2854111497.jpg"
+          ]
+        },
+        {
+          "a": [
+            "train/Cassava___bacterial_blight/3809163419.jpg"
+          ],
+          "b": [
+            "test_200_veri/Cassava___bacterial_blight/3809163419.jpg"
+          ]
+        },
+        {
+          "a": [
+            "train/Cassava___bacterial_blight/3913384912.jpg"
+          ],
+          "b": [
+            "test_200_veri/Cassava___bacterial_blight/3913384912.jpg"
+          ]
+        },
+        {
+          "a": [
+            "train/Cassava___brown_streak_disease/2885118531.jpg"
+          ],
+          "b": [
+            "test_200_veri/Cassava___brown_streak_disease/2885118531.jpg"
+          ]
+        },
+        {
+          "a": [
+            "train/Cassava___healthy/4009113191.jpg"
+          ],
+          "b": [
+            "test_200_veri/Cassava___healthy/4009113191.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "a": "train",
+      "b": "Leaf_200_er_veri",
+      "common_sha256": 1000,
+      "examples": [
+        {
+          "a": [
+            "train/Cassava___bacterial_blight/3221655507.jpg"
+          ],
+          "b": [
+            "Leaf_200_er_veri/train_deneme/Cassava___bacterial_blight/3221655507.jpg"
+          ]
+        },
+        {
+          "a": [
+            "train/Cassava___healthy/3525273765.jpg"
+          ],
+          "b": [
+            "Leaf_200_er_veri/train_deneme/Cassava___healthy/3525273765.jpg"
+          ]
+        },
+        {
+          "a": [
+            "train/Cassava___healthy/3545118265.jpg"
+          ],
+          "b": [
+            "Leaf_200_er_veri/train_deneme/Cassava___healthy/3545118265.jpg"
+          ]
+        },
+        {
+          "a": [
+            "train/Cassava___bacterial_blight/3693127282.jpg"
+          ],
+          "b": [
+            "Leaf_200_er_veri/train_deneme/Cassava___bacterial_blight/3693127282.jpg"
+          ]
+        },
+        {
+          "a": [
+            "train/Cassava___brown_streak_disease/2814110905.jpg"
+          ],
+          "b": [
+            "Leaf_200_er_veri/train_deneme/Cassava___brown_streak_disease/2814110905.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "a": "test",
+      "b": "valid_deneme",
+      "common_sha256": 0,
+      "examples": []
+    },
+    {
+      "a": "test",
+      "b": "test_200_veri",
+      "common_sha256": 0,
+      "examples": []
+    },
+    {
+      "a": "test",
+      "b": "Leaf_200_er_veri",
+      "common_sha256": 0,
+      "examples": []
+    },
+    {
+      "a": "valid_deneme",
+      "b": "test_200_veri",
+      "common_sha256": 100,
+      "examples": [
+        {
+          "a": [
+            "valid_deneme/Cassava___bacterial_blight/3913384912.jpg"
+          ],
+          "b": [
+            "test_200_veri/Cassava___bacterial_blight/3913384912.jpg"
+          ]
+        },
+        {
+          "a": [
+            "valid_deneme/Cassava___brown_streak_disease/2885118531.jpg"
+          ],
+          "b": [
+            "test_200_veri/Cassava___brown_streak_disease/2885118531.jpg"
+          ]
+        },
+        {
+          "a": [
+            "valid_deneme/Cassava___mosaic_disease/4250418714.jpg"
+          ],
+          "b": [
+            "test_200_veri/Cassava___mosaic_disease/4250418714.jpg"
+          ]
+        },
+        {
+          "a": [
+            "valid_deneme/Cassava___healthy/4103867773.jpg"
+          ],
+          "b": [
+            "test_200_veri/Cassava___healthy/4103867773.jpg"
+          ]
+        },
+        {
+          "a": [
+            "valid_deneme/Cassava___healthy/4091571824.jpg"
+          ],
+          "b": [
+            "test_200_veri/Cassava___healthy/4091571824.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "a": "valid_deneme",
+      "b": "Leaf_200_er_veri",
+      "common_sha256": 100,
+      "examples": [
+        {
+          "a": [
+            "valid_deneme/Cassava___bacterial_blight/3913384912.jpg"
+          ],
+          "b": [
+            "Leaf_200_er_veri/train_deneme/Cassava___bacterial_blight/3913384912.jpg"
+          ]
+        },
+        {
+          "a": [
+            "valid_deneme/Cassava___brown_streak_disease/2885118531.jpg"
+          ],
+          "b": [
+            "Leaf_200_er_veri/train_deneme/Cassava___brown_streak_disease/2885118531.jpg"
+          ]
+        },
+        {
+          "a": [
+            "valid_deneme/Cassava___mosaic_disease/4250418714.jpg"
+          ],
+          "b": [
+            "Leaf_200_er_veri/train_deneme/Cassava___mosaic_disease/4250418714.jpg"
+          ]
+        },
+        {
+          "a": [
+            "valid_deneme/Cassava___healthy/4103867773.jpg"
+          ],
+          "b": [
+            "Leaf_200_er_veri/train_deneme/Cassava___healthy/4103867773.jpg"
+          ]
+        },
+        {
+          "a": [
+            "valid_deneme/Cassava___healthy/4091571824.jpg"
+          ],
+          "b": [
+            "Leaf_200_er_veri/train_deneme/Cassava___healthy/4091571824.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "a": "test_200_veri",
+      "b": "Leaf_200_er_veri",
+      "common_sha256": 150,
+      "examples": [
+        {
+          "a": [
+            "test_200_veri/Cassava___brown_streak_disease/2854111497.jpg"
+          ],
+          "b": [
+            "Leaf_200_er_veri/train_deneme/Cassava___brown_streak_disease/2854111497.jpg"
+          ]
+        },
+        {
+          "a": [
+            "test_200_veri/Cassava___bacterial_blight/3809163419.jpg"
+          ],
+          "b": [
+            "Leaf_200_er_veri/train_deneme/Cassava___bacterial_blight/3809163419.jpg"
+          ]
+        },
+        {
+          "a": [
+            "test_200_veri/Cassava___bacterial_blight/3913384912.jpg"
+          ],
+          "b": [
+            "Leaf_200_er_veri/train_deneme/Cassava___bacterial_blight/3913384912.jpg"
+          ]
+        },
+        {
+          "a": [
+            "test_200_veri/Cassava___brown_streak_disease/2885118531.jpg"
+          ],
+          "b": [
+            "Leaf_200_er_veri/train_deneme/Cassava___brown_streak_disease/2885118531.jpg"
+          ]
+        },
+        {
+          "a": [
+            "test_200_veri/Cassava___healthy/4009113191.jpg"
+          ],
+          "b": [
+            "Leaf_200_er_veri/train_deneme/Cassava___healthy/4009113191.jpg"
+          ]
+        }
+      ]
+    }
+  ]
+}
