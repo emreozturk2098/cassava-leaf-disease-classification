@@ -1,6 +1,5 @@
 {
   "audit_date": "2026-10-16",
-  "remote_updated": false,
   "files": [
     {
       "repo": "cassava-leaf-disease-classification",
@@ -361,5 +360,6 @@
       "bytes": 60679,
       "reason": "figure placed alongside original LaTeX source to retain relative paths"
     }
-  ]
+  ],
+  "scope": "Source-file recovery manifest prepared before publication; current remote status is recorded in the workspace verification log."
 }

@@ -8,12 +8,12 @@
 
 Emre Öztürk and Ali Baki Türköz contributed jointly and equally at every stage of both studies. Each study retains its own data and evaluation context.
 
-Two academic computer-vision studies by **Emre Öztürk and Ali Baki Türköz**, who worked jointly and equally at every stage. This private portfolio brings together an undergraduate CNN study (EE470, Yeditepe University) and a later comparative-model study (CS523, Özyeğin University).
+Two academic computer-vision studies by **Emre Öztürk and Ali Baki Türköz**, who worked jointly and equally at every stage. This academic portfolio brings together an undergraduate CNN study (EE470, Yeditepe University) and a later comparative-model study (CS523, Özyeğin University).
 
 ## What is the problem?
 Given a photograph of a Cassava leaf, predict one of five healthy/disease categories. Field images vary in lighting, clutter, blur and leaf appearance; class imbalance and similar disease patterns make evaluation important. The studies explore image preparation, classification methods, error analysis and the effect of augmentation.
 
-The repository explains **what was done, why the methods were chosen and what the saved outputs show**. It includes selected original code parts, a clearly labelled later code illustration, source-labelled image examples, archived result tables and learning/confusion plots. Full training code, raw datasets and trained model weights are not distributed.
+The repository explains **what was done, why the methods were chosen and what the saved outputs show**. It includes selected original code parts, a clearly labelled later code illustration, source-labelled image examples, archived result tables and learning/confusion plots. Original EE470 training/testing scripts and notebooks are now included. A full original CS523 training pipeline, bulk datasets and model weights are not available in this package.
 
 ## Two study sections — distinct evaluation settings
 | Study | Main approach | Evaluation | Main archived outcome |

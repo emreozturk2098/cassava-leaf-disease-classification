@@ -21,7 +21,7 @@ The main reported outcome uses the latest available numbered report (`_3`): **55
 
 The original dataset partition helper shuffles a batched dataset and then creates separate take/skip branches, without freezing an immutable split manifest. This requires review for train/validation/test overlap before using the original split as a reliable independent test. A future cleaned implementation should create deterministic file-level split lists and verify non-overlap.
 
-This study sits beside CS523 in the same private portfolio because they address the same task. The dataset and validation protocols remain separate. Student identifiers and complete source reports are excluded.
+This study sits beside CS523 in the same academic portfolio because they address the same task. The dataset and validation protocols remain separate. Original EE470 reports and training/testing code are now archived; see RECOVERED_MATERIALS.md.
 
 ## Presentation evidence
 [Saved model-summary and learning-curve images](FIGURE_GALLERY.md) were extracted from slides 15, 17 and 18. They do not independently establish the selected instructor-test score.
