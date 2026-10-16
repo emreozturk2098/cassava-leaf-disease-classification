@@ -1,0 +1,17 @@
+\begin{table*}[t]
+\centering
+\caption{Classical machine-learning baseline results on CLDC (3-fold stratified CV; raw $64{\times}64$ grayscale flatten $\rightarrow$ StandardScaler $\rightarrow$ PCA ($95\%$ variance) $\rightarrow$ classifier). All values are mean$\pm$std across the three folds.}
+\label{tab:results_ml}
+\renewcommand{\arraystretch}{1.25}
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{lcccc}
+\toprule
+\textbf{Classifier} & \textbf{F1 (macro)} & \textbf{Accuracy} & \textbf{Prec.\ (macro)} & \textbf{Recall (macro)} \\
+\midrule
+\texttt{sgd\_classifier} & $0.2012 \pm 0.0064$ & $0.3088 \pm 0.0145$ & 0.2133 & 0.2216 \\
+\texttt{logistic\_regression} & $0.1898 \pm 0.0037$ & $0.2428 \pm 0.0043$ & 0.2167 & 0.2270 \\
+\texttt{extra\_trees} & $0.1523 \pm 0.0000$ & $0.6149 \pm 0.0001$ & 0.1230 & 0.2000 \\
+\texttt{random\_forest} & $0.1523 \pm 0.0000$ & $0.6149 \pm 0.0000$ & 0.1230 & 0.2000 \\
+\bottomrule
+\end{tabular}
+\end{table*}

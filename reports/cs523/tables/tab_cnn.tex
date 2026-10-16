@@ -1,0 +1,23 @@
+\begin{table*}[t]
+\centering
+\caption{Top-10 CNN trials (ResNet-50 and EfficientNet-B4) on CLDC, ranked by macro-F1 over a 3-fold stratified CV. ``CW'' indicates whether class-balanced loss weighting was used. Values are mean$\pm$std across folds.}
+\label{tab:results_cnn}
+\renewcommand{\arraystretch}{1.2}
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{clccccc}
+\toprule
+\textbf{Rank} & \textbf{Model} & \textbf{CW} & \textbf{F1 (macro)} & \textbf{Accuracy} & \textbf{Prec.\ (macro)} & \textbf{Recall (macro)} \\
+\midrule
+1 & \texttt{resnet50} & $\times$ & $0.7405 \pm 0.0169$ & $0.8521 \pm 0.0085$ & 0.7576 & 0.7298 \\
+2 & \texttt{resnet50} & $\times$ & $0.7375 \pm 0.0161$ & $0.8508 \pm 0.0081$ & 0.7530 & 0.7290 \\
+3 & \texttt{resnet50} & $\times$ & $0.7345 \pm 0.0064$ & $0.8458 \pm 0.0040$ & 0.7400 & 0.7311 \\
+4 & \texttt{resnet50} & $\times$ & $0.7311 \pm 0.0104$ & $0.8459 \pm 0.0046$ & 0.7445 & 0.7210 \\
+5 & \texttt{resnet50} & $\times$ & $0.7310 \pm 0.0080$ & $0.8421 \pm 0.0059$ & 0.7353 & 0.7298 \\
+6 & \texttt{resnet50} & $\times$ & $0.7303 \pm 0.0125$ & $0.8454 \pm 0.0059$ & 0.7434 & 0.7213 \\
+7 & \texttt{resnet50} & \checkmark & $0.7299 \pm 0.0161$ & $0.8365 \pm 0.0171$ & 0.7197 & 0.7502 \\
+8 & \texttt{resnet50} & $\times$ & $0.7281 \pm 0.0128$ & $0.8416 \pm 0.0090$ & 0.7370 & 0.7248 \\
+9 & \texttt{efficientnet\_b4} & $\times$ & $0.7274 \pm 0.0123$ & $0.8494 \pm 0.0059$ & 0.7514 & 0.7112 \\
+10 & \texttt{resnet50} & $\times$ & $0.7271 \pm 0.0094$ & $0.8415 \pm 0.0045$ & 0.7357 & 0.7254 \\
+\bottomrule
+\end{tabular}
+\end{table*}

@@ -1,0 +1,365 @@
+{
+  "audit_date": "2026-10-16",
+  "remote_updated": false,
+  "files": [
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification/cs523_paper_FINAL.pdf",
+      "path": "reports/cs523/cs523_paper_FINAL.pdf",
+      "status": "added",
+      "sha256": "5c413ef2cf574b0f589026e336d19195fe4cfb128d94e5ea1c436f24a1d086e4",
+      "bytes": 1854293
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification/cs523_paper_FINAL.tex",
+      "path": "reports/cs523/cs523_paper_FINAL.tex",
+      "status": "added",
+      "sha256": "fb00ee40daf4ffc6ad454fd50068ece29993ba66a7e06820c471948aa9ab287c",
+      "bytes": 68184
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification/cs523_proposal.tex",
+      "path": "reports/cs523/cs523_proposal.tex",
+      "status": "added",
+      "sha256": "eac473b5d3fcaecca34c0adb9b39717037a35435e82eda7e467964a822f68c88",
+      "bytes": 46593
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification/references.bib",
+      "path": "reports/cs523/references.bib",
+      "status": "added",
+      "sha256": "98e3dccc33ab22a7299ccfcb91f16c031fe8119fe4321df5d468a5057f2b0952",
+      "bytes": 8482
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification/fig/fig_aug_comparison.pdf",
+      "path": "reports/cs523/fig/fig_aug_comparison.pdf",
+      "status": "added",
+      "sha256": "69a5440ca458d6600ddba9fa45811ff8193703ae141ecde5262a0b17080ddaad",
+      "bytes": 19526
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification/fig/fig_class_distribution.pdf",
+      "path": "reports/cs523/fig/fig_class_distribution.pdf",
+      "status": "added",
+      "sha256": "7a98c0520c01116330949b1688bdd457b29a0b96a524361e70194c4c3ade4836",
+      "bytes": 17164
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification/fig/fig_perclass_delta.pdf",
+      "path": "reports/cs523/fig/fig_perclass_delta.pdf",
+      "status": "added",
+      "sha256": "7046f8bb863c1cffbe7ef8f0c4eb5bc3e88940f2fa87120076c608844aa5f555",
+      "bytes": 19799
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification/tables/tab_aug.tex",
+      "path": "reports/cs523/tables/tab_aug.tex",
+      "status": "added",
+      "sha256": "4761ed2f3fdbb7b05edc4c51c5cafdcff574f6e60bd1d5113f8b92cb7242cf35",
+      "bytes": 2350
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification/tables/tab_cnn.tex",
+      "path": "reports/cs523/tables/tab_cnn.tex",
+      "status": "added",
+      "sha256": "15f23c739ac0a7c5c3878cea3481a19da60fe96ff9088552c2173a524df29808",
+      "bytes": 1550
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification/tables/tab_ml.tex",
+      "path": "reports/cs523/tables/tab_ml.tex",
+      "status": "added",
+      "sha256": "0c3b4e74add3929baf3ebd369dce6d7191714c32942e02d297bbd592d72886fd",
+      "bytes": 939
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification/tables/tab_vit.tex",
+      "path": "reports/cs523/tables/tab_vit.tex",
+      "status": "added",
+      "sha256": "2b46c0205a4da270bbc6dbd9bd1f73b15478567243296e22654735d1858a3969",
+      "bytes": 1558
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "EE470/470_PROJE_SON_HAL_KODLAR!!!!!!/Appendix_A_Train_and_save_model.ipynb",
+      "path": "source/ee470/470_PROJE_SON_HAL_KODLAR!!!!!!/Appendix_A_Train_and_save_model.ipynb",
+      "status": "added",
+      "sha256": "eaaeaac15812f0d7118618a0737e778a6c07441f8b38dc98c5d046246f84f1c9",
+      "bytes": 9284
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "EE470/470_PROJE_SON_HAL_KODLAR!!!!!!/appendix_a_train_and_save_model.py",
+      "path": "source/ee470/470_PROJE_SON_HAL_KODLAR!!!!!!/appendix_a_train_and_save_model.py",
+      "status": "added",
+      "sha256": "332addb810265dfb839c0c51405592279b963a3efbdf753b7414746674ef259f",
+      "bytes": 6119
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "EE470/470_PROJE_SON_HAL_KODLAR!!!!!!/Appendix_B_Test_Model.ipynb",
+      "path": "source/ee470/470_PROJE_SON_HAL_KODLAR!!!!!!/Appendix_B_Test_Model.ipynb",
+      "status": "added",
+      "sha256": "83a32b3fa328cc9ba10e1d6af9f7e398e6e4d6dededf59f7e7146f7099b3b17c",
+      "bytes": 2700
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "EE470/470_PROJE_SON_HAL_KODLAR!!!!!!/appendix_b_test_model.py",
+      "path": "source/ee470/470_PROJE_SON_HAL_KODLAR!!!!!!/appendix_b_test_model.py",
+      "status": "added",
+      "sha256": "96faa8a42df678bab2d900cf593f34e5e3577919b3f6b7e74b4af83dbb55f377",
+      "bytes": 2292
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "EE470/470_PROJE_SON_HAL_KODLAR!!!!!!/EE470_Term_Project_Testing.py",
+      "path": "source/ee470/470_PROJE_SON_HAL_KODLAR!!!!!!/EE470_Term_Project_Testing.py",
+      "status": "added",
+      "sha256": "954fc8a79ce935c7883ae7318f6e5ff8dcac50c915085d4553c8c81a17c572df",
+      "bytes": 2088
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "EE470/470_PROJE_SON_HAL_KODLAR!!!!!!/EE470_Term_Project_Training.py",
+      "path": "source/ee470/470_PROJE_SON_HAL_KODLAR!!!!!!/EE470_Term_Project_Training.py",
+      "status": "added",
+      "sha256": "85a9bc740b715d0447fd36eab2e298c5ef0a129fef69a5045fd2c0ade16d1dd0",
+      "bytes": 6199
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "EE470/EE470_Project/1.KOD_EKSTRA_DENEME.py",
+      "path": "source/ee470/EE470_Project/1.KOD_EKSTRA_DENEME.py",
+      "status": "added",
+      "sha256": "c9a49b9be212d10ae0e9380b6b2368446816501a2c249ca40fd469112011126e",
+      "bytes": 5731
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "EE470/EE470_Project/Cassava_Leaf_Disease_Classification_Using_CNN.ipynb",
+      "path": "source/ee470/EE470_Project/Cassava_Leaf_Disease_Classification_Using_CNN.ipynb",
+      "status": "added",
+      "sha256": "822d8b57c8b60d23842168cca559eb88ce37aa8cece7a0875e2dc32b7521b8c0",
+      "bytes": 4548035
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "EE470/EE470_Project/DENEME_Leaf_Disease_Classification_Using_CNN.ipynb",
+      "path": "source/ee470/EE470_Project/DENEME_Leaf_Disease_Classification_Using_CNN.ipynb",
+      "status": "added",
+      "sha256": "b7b1dc764189709bc2159203e8feabe133d0ab489b30e8323f6d93c48ce65430",
+      "bytes": 4773010
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "EE470/EE470_Project/EE 470 Course Project-2.pdf",
+      "path": "reports/ee470/EE 470 Course Project-2.pdf",
+      "status": "added",
+      "sha256": "5de135125a68b2d9600cb779a28b3fe4bf2948b59be03eda3ac96e6795e0790c",
+      "bytes": 677372
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "EE470/EE470_Project/EE470_SUNUM_PROJE.pptx",
+      "path": "reports/ee470/EE470_SUNUM_PROJE.pptx",
+      "status": "added",
+      "sha256": "9bf3cdee7e8d70d9bead9b00d4826b16dd26f8b030a4af4e5ee489950062d181",
+      "bytes": 16551384
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "EE470/EE470_Project/resnet_model_train(1).ipynb",
+      "path": "source/ee470/EE470_Project/resnet_model_train(1).ipynb",
+      "status": "added",
+      "sha256": "575b8573df3bf8ac25528267471f97b97226a2c76fc30c46dc4910d5e8166d60",
+      "bytes": 121742
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "EE470/EE470_Project/resnet_model_train_SPLİTTT_.ipynb",
+      "path": "source/ee470/EE470_Project/resnet_model_train_SPLİTTT_.ipynb",
+      "status": "added",
+      "sha256": "892eae1619704c43434e6bcaccbdca1b693ffb8089bba44b3cdb23fe8f24b54c",
+      "bytes": 175334
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "EE470/EE470_Project/testi̇ng_project_term.py",
+      "path": "source/ee470/EE470_Project/testi̇ng_project_term.py",
+      "status": "added",
+      "sha256": "3b5c15ba5b4aa3415d44d68b79f579f0e7dc7b550bb96910011cd355404c5d36",
+      "bytes": 2164
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "EE470/EE470_Project/test_etme_470_project.py",
+      "path": "source/ee470/EE470_Project/test_etme_470_project.py",
+      "status": "added",
+      "sha256": "fe819fe5a7d9742f71e65e2a21a9fe12d98db4f067f54b27c4e0f5e82cee1e44",
+      "bytes": 2700
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "EE470/EE470_Project/Training_and_testi̇ng_project_term.ipynb",
+      "path": "source/ee470/EE470_Project/Training_and_testi̇ng_project_term.ipynb",
+      "status": "added",
+      "sha256": "1d01054ac8ca88234d3b58913a2bec241673d9d47b0ea9b2f938ee35b75d8de4",
+      "bytes": 13750
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "EE470/EE470_Project/Untitled0.ipynb",
+      "path": "source/ee470/EE470_Project/Untitled0.ipynb",
+      "status": "added",
+      "sha256": "f201c27366a2e14045ba1fb6b65387eb21c97254c4d11da1555bf9928987f898",
+      "bytes": 7078
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification/fig/fig_aug_comparison.png",
+      "path": "reports/cs523/fig/fig_aug_comparison.png",
+      "status": "added",
+      "sha256": "52e4b3839459554dadd0f0e4988af9e39cb9d8fac1fb231b1361ec1bb1cbef32",
+      "bytes": 132254,
+      "reason": "figure placed alongside original LaTeX source to retain relative paths"
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification/fig/fig_class_distribution.png",
+      "path": "reports/cs523/fig/fig_class_distribution.png",
+      "status": "added",
+      "sha256": "3298e6fbec82c4658f8de8503fb561edaa16b7f2abb30c13919aedc3aa7ecb96",
+      "bytes": 58753,
+      "reason": "figure placed alongside original LaTeX source to retain relative paths"
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification/fig/fig_cm_aug_heavy.png",
+      "path": "reports/cs523/fig/fig_cm_aug_heavy.png",
+      "status": "added",
+      "sha256": "63750c610e64a0583d55d8a5ce59f30412f42f19af54b5ebca6d36feece6c284",
+      "bytes": 123402,
+      "reason": "figure placed alongside original LaTeX source to retain relative paths"
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification/fig/fig_cm_aug_none.png",
+      "path": "reports/cs523/fig/fig_cm_aug_none.png",
+      "status": "added",
+      "sha256": "55657b572be37828799e636ef830b1d1d703def05a6fee671869ee15cf0b6fe5",
+      "bytes": 117383,
+      "reason": "figure placed alongside original LaTeX source to retain relative paths"
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification/fig/fig_cm_best_dl.png",
+      "path": "reports/cs523/fig/fig_cm_best_dl.png",
+      "status": "added",
+      "sha256": "cd57310ccd770231f2f34667384f17043a1e67041fec05211e7b916e0c62a80c",
+      "bytes": 98522,
+      "reason": "figure placed alongside original LaTeX source to retain relative paths"
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification/fig/fig_curves_aug_heavy_combo.png",
+      "path": "reports/cs523/fig/fig_curves_aug_heavy_combo.png",
+      "status": "added",
+      "sha256": "f64f1b0819b2ecb84e4ef691a3f14b0758637f58d6ebcb583896d60141b07523",
+      "bytes": 328265,
+      "reason": "figure placed alongside original LaTeX source to retain relative paths"
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification/fig/fig_curves_best_dl.png",
+      "path": "reports/cs523/fig/fig_curves_best_dl.png",
+      "status": "added",
+      "sha256": "03a22b501cf07416e66d3e5317b3b6909382ffe6017d20819357eddcf58592a2",
+      "bytes": 146266,
+      "reason": "figure placed alongside original LaTeX source to retain relative paths"
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification/fig/fig_perclass_best_dl.png",
+      "path": "reports/cs523/fig/fig_perclass_best_dl.png",
+      "status": "added",
+      "sha256": "f02e5a4ca13944dc46f45a5b76353642093fd810a98e8e55924913af4e244c0e",
+      "bytes": 70332,
+      "reason": "figure placed alongside original LaTeX source to retain relative paths"
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification/fig/fig_perclass_delta.png",
+      "path": "reports/cs523/fig/fig_perclass_delta.png",
+      "status": "added",
+      "sha256": "dfcc9d6d0132d9aeb325c2307de12d7c2c150834f8fdaddf996d065f4f806260",
+      "bytes": 88404,
+      "reason": "figure placed alongside original LaTeX source to retain relative paths"
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification/fig/examples/label0_Cassava_Bacterial_Blight_CBB_2292154193.jpg",
+      "path": "reports/cs523/fig/examples/label0_Cassava_Bacterial_Blight_CBB_2292154193.jpg",
+      "status": "added",
+      "sha256": "af4381dfd4929269162f046b64ea78c506ea4ef640767c07253ae7460f0566d4",
+      "bytes": 108649,
+      "reason": "figure placed alongside original LaTeX source to retain relative paths"
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification/fig/examples/label1_Cassava_Brown_Streak_Disease_CBSD_1053506407.jpg",
+      "path": "reports/cs523/fig/examples/label1_Cassava_Brown_Streak_Disease_CBSD_1053506407.jpg",
+      "status": "added",
+      "sha256": "f47231198174428a568f54dc33b31bca3bfea567d3b8eb63a620485d6955a7c7",
+      "bytes": 76818,
+      "reason": "figure placed alongside original LaTeX source to retain relative paths"
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification/fig/examples/label2_Cassava_Green_Mite_CGM_532304081.jpg",
+      "path": "reports/cs523/fig/examples/label2_Cassava_Green_Mite_CGM_532304081.jpg",
+      "status": "added",
+      "sha256": "e9ca087fb87a32303412679be615822d6e5805331b19b057b4cd7bd850735961",
+      "bytes": 132827,
+      "reason": "figure placed alongside original LaTeX source to retain relative paths"
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification/fig/examples/label2_Cassava_Green_Mottle_CGM_532304081.jpg",
+      "path": "reports/cs523/fig/examples/label2_Cassava_Green_Mottle_CGM_532304081.jpg",
+      "status": "added",
+      "sha256": "e9ca087fb87a32303412679be615822d6e5805331b19b057b4cd7bd850735961",
+      "bytes": 132827,
+      "reason": "figure placed alongside original LaTeX source to retain relative paths"
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification/fig/examples/label3_Cassava_Mosaic_Disease_CMD_575135832.jpg",
+      "path": "reports/cs523/fig/examples/label3_Cassava_Mosaic_Disease_CMD_575135832.jpg",
+      "status": "added",
+      "sha256": "81bfe517ba573bea632eed39ab0733089fb13dd11c4506df9ac6b4f6dabe25ec",
+      "bytes": 117635,
+      "reason": "figure placed alongside original LaTeX source to retain relative paths"
+    },
+    {
+      "repo": "cassava-leaf-disease-classification",
+      "source": "CS523_Computer_Vision_Project_Cassava_Leaf_Disease_Classification/fig/examples/label4_Healthy_1372417670.jpg",
+      "path": "reports/cs523/fig/examples/label4_Healthy_1372417670.jpg",
+      "status": "added",
+      "sha256": "4ee83fb1a71fa9fa6f598bcd77d44b568800d876e98e04e5069a06dc37f0100a",
+      "bytes": 60679,
+      "reason": "figure placed alongside original LaTeX source to retain relative paths"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+\begin{table*}[t]
+\centering
+\caption{Augmentation ablation results on CLDC. All trials use the selected best ViT-B/16 configuration from Table~\ref{tab:best_dl} as a fixed starting point; only the augmentation policy varies. Values are mean$\pm$std across 3 folds. ``$\Delta$F1'' is the change in macro-F1 with respect to the \texttt{none} baseline. Rows are ranked by macro-F1.}
+\label{tab:results_aug}
+\renewcommand{\arraystretch}{1.2}
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{clccccc}
+\toprule
+\textbf{Rank} & \textbf{Augmentation} & \textbf{F1 (macro)} & \textbf{Accuracy} & \textbf{Prec.\ (macro)} & \textbf{Recall (macro)} & \textbf{$\Delta$F1 vs none} \\
+\midrule
+\textbf{1} & \texttt{heavy\_combo} & \textbf{$0.7921 \pm 0.0068$} & \textbf{$0.8855 \pm 0.0040$} & \textbf{0.7980} & \textbf{0.7890} & \textbf{$+0.0109$} \\
+2 & \texttt{cutout\_double} & $0.7888 \pm 0.0065$ & $0.8835 \pm 0.0031$ & 0.7923 & 0.7864 & $+0.0075$ \\
+3 & \texttt{regularization\_light\_combo} & $0.7878 \pm 0.0075$ & $0.8843 \pm 0.0048$ & 0.8005 & 0.7786 & $+0.0065$ \\
+4 & \texttt{comp\_3rd} & $0.7877 \pm 0.0040$ & $0.8835 \pm 0.0028$ & 0.7959 & 0.7821 & $+0.0064$ \\
+5 & \texttt{comp\_resnext} & $0.7867 \pm 0.0060$ & $0.8844 \pm 0.0045$ & 0.8033 & 0.7749 & $+0.0054$ \\
+6 & \texttt{comp\_vit} & $0.7866 \pm 0.0109$ & $0.8848 \pm 0.0039$ & 0.7995 & 0.7806 & $+0.0053$ \\
+7 & \texttt{clahe\_enhanced} & $0.7854 \pm 0.0040$ & $0.8850 \pm 0.0016$ & 0.8041 & 0.7718 & $+0.0041$ \\
+8 & \texttt{color\_light\_combo} & $0.7843 \pm 0.0036$ & $0.8832 \pm 0.0024$ & 0.7976 & 0.7728 & $+0.0030$ \\
+9 & \texttt{contrast\_only} & $0.7835 \pm 0.0083$ & $0.8811 \pm 0.0058$ & 0.7929 & 0.7773 & $+0.0022$ \\
+10 & \texttt{perspective\_light} & $0.7830 \pm 0.0087$ & $0.8828 \pm 0.0049$ & 0.7975 & 0.7719 & $+0.0018$ \\
+11 & \texttt{flip\_only} & $0.7827 \pm 0.0038$ & $0.8818 \pm 0.0034$ & 0.7936 & 0.7746 & $+0.0014$ \\
+12 & \texttt{color\_only} & $0.7819 \pm 0.0049$ & $0.8813 \pm 0.0030$ & 0.7985 & 0.7688 & $+0.0007$ \\
+13 & \texttt{none} (baseline) & $0.7812 \pm 0.0096$ & $0.8800 \pm 0.0063$ & 0.7927 & 0.7740 & --- \\
+14 & \texttt{blur\_noise\_light} & $0.7799 \pm 0.0063$ & $0.8814 \pm 0.0034$ & 0.7984 & 0.7654 & $-0.0013$ \\
+15 & \texttt{rotate\_only} & $0.7775 \pm 0.0017$ & $0.8805 \pm 0.0022$ & 0.7934 & 0.7674 & $-0.0038$ \\
+\bottomrule
+\end{tabular}
+\end{table*}
